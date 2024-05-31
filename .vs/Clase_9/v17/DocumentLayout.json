@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Clase 9\\Clase_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21DFC5DE-E085-4DF6-AE15-C4181B3A77B3}|Clase_9.csproj|C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Clase 9\\Clase_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DFC5DE-E085-4DF6-AE15-C4181B3A77B3}|Clase_9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DFC5DE-E085-4DF6-AE15-C4181B3A77B3}|Clase_9.csproj|c:\\users\\lenovo loq\\documents\\programas git\\clase 9\\clase_9\\clasebase\\clsconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DFC5DE-E085-4DF6-AE15-C4181B3A77B3}|Clase_9.csproj|solutionrelative:clasebase\\clsconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DFC5DE-E085-4DF6-AE15-C4181B3A77B3}|Clase_9.csproj|C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Clase 9\\Clase_9\\clasehija\\xbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DFC5DE-E085-4DF6-AE15-C4181B3A77B3}|Clase_9.csproj|solutionrelative:clasehija\\xbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DFC5DE-E085-4DF6-AE15-C4181B3A77B3}|Clase_9.csproj|C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Clase 9\\Clase_9\\clasehija\\playstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DFC5DE-E085-4DF6-AE15-C4181B3A77B3}|Clase_9.csproj|solutionrelative:clasehija\\playstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DFC5DE-E085-4DF6-AE15-C4181B3A77B3}|Clase_9.csproj|C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Clase 9\\Clase_9\\clasehija\\nintendo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DFC5DE-E085-4DF6-AE15-C4181B3A77B3}|Clase_9.csproj|solutionrelative:clasehija\\nintendo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Clase 9\\Clase_9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Clase 9\\Clase_9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:09:12.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsConsola.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Clase 9\\Clase_9\\ClaseBase\\ClsConsola.cs",
+              "RelativeDocumentMoniker": "ClaseBase\\ClsConsola.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Clase 9\\Clase_9\\ClaseBase\\ClsConsola.cs",
+              "RelativeToolTip": "ClaseBase\\ClsConsola.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:11:07.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nintendo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Clase 9\\Clase_9\\ClaseHija\\Nintendo.cs",
+              "RelativeDocumentMoniker": "ClaseHija\\Nintendo.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Clase 9\\Clase_9\\ClaseHija\\Nintendo.cs",
+              "RelativeToolTip": "ClaseHija\\Nintendo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:26:44.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayStation.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Clase 9\\Clase_9\\ClaseHija\\PlayStation.cs",
+              "RelativeDocumentMoniker": "ClaseHija\\PlayStation.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Clase 9\\Clase_9\\ClaseHija\\PlayStation.cs",
+              "RelativeToolTip": "ClaseHija\\PlayStation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:40:47.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Xbox.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Clase 9\\Clase_9\\ClaseHija\\Xbox.cs",
+              "RelativeDocumentMoniker": "ClaseHija\\Xbox.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\Documents\\Programas GIT\\Clase 9\\Clase_9\\ClaseHija\\Xbox.cs",
+              "RelativeToolTip": "ClaseHija\\Xbox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:49:22.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
